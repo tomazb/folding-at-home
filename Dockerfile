@@ -26,4 +26,4 @@ USER folder
 WORKDIR /home/folder
 
 ENTRYPOINT ["FAHClient", "--web-allow=0/0:7396", "--allow=0/0:7396"]
-CMD ["--user=Anonymous", "--team=0", "--gpu=false", "--smp=true", "--power=full"]
+CMD ["--user=Anonymous", "--team=299", "--gpu=false", "--smp=true", "--power=full"]
